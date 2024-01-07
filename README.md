@@ -8,6 +8,8 @@
 ### Usage
 * Access the application in your web browser to perform CRUD operations.
 
-<img src="https://drive.google.com/drive/u/4/folders/1hhGzx0QcuQWWgLJhEa-WaQxLDdfWzvvI">
+## Feel free to explore, use, and contribute to this project!
+
+##### I followed "PHP CRUD || Create, Read, Update, Delete" by Step by Step Channel.
 
    
