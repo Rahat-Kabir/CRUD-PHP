@@ -8,6 +8,6 @@
 ### Usage
 * Access the application in your web browser to perform CRUD operations.
 
-![alt text](https://drive.google.com/drive/u/4/folders/1hhGzx0QcuQWWgLJhEa-WaQxLDdfWzvvI)
+<img src="https://drive.google.com/drive/u/4/folders/1hhGzx0QcuQWWgLJhEa-WaQxLDdfWzvvI">
 
    
